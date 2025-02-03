@@ -49,7 +49,7 @@ def transform_data():
         return transformed_data
 
     except FileNotFoundError:
-        print("❌ Raw data file not found.")
+        print("Raw data file not found.")
         return []
 
 if __name__ == "__main__":

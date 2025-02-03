@@ -1,0 +1,1350 @@
+{
+    "collections": [
+        {
+            "collection": "money-shot-2",
+            "name": "MONEY SHOT",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/4dee206542e61180d883827588a7319e.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xa1a62f20b2e6ac36b2565ee9027ceaa7928ad1d8",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/money-shot-2",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xb003aa50056858a0ed0e895cc99eeecedf571a72",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "comfytree",
+            "name": "comfytree",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/ff91409ce91a3d1e0ac5f05d2f271f8b.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xde9201a1f084f8227438de2d75b6c326bf7bf72b",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/comfytree",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x956d12088fda4774a96fb8a191faf5b2453d3d36",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "micah-kilton-racing-77",
+            "name": "Micah Kilton Racing 77",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/ac4e6ae64b94c1753e4368ce8630f86a.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xd06ae6303f4f5a64b765758da29811e8ca143fd4",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/micah-kilton-racing-77",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xb4ca564f97a8fc50ae3bec08562f6a01997e0261",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "anime-love-6",
+            "name": "Anime Love",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/1107d5902c69ac7a6b57bbf473312aa4.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xecaf1671a84aacd46b2dff9503f9a776ac430311",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/anime-love-6",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x3e212a707cb5b0c5fcb2f3a25f0d7c8c8b77db9b",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "king-of-kings-8",
+            "name": "King of Kings",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/5238297c42dff0db884335b390fb628d.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x48a5ef0d3e94f563d6f6f730d4ae0e9f372f6f4e",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/king-of-kings-8",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x395049c8e002e856d17e302ea120baa2d78e964a",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "reflection-sunset",
+            "name": "REFLECTION SUNSET",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/fcb43b67cb82e773828b7d17f8b26684.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x24b74ada304b9b26b76b7ef7dfb94aee9f550517",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/reflection-sunset",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x85905b7a1e2131bad8ff73d363df2f1f89969130",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "simplefrida",
+            "name": "Simple Frida",
+            "description": "Frida from the Simple Universe",
+            "image_url": "https://i.seadn.io/s/raw/files/cd6fea871bf5879e947deeddf8b61df4.png?w=500&auto=format",
+            "banner_image_url": "https://i.seadn.io/s/primary-drops/0x3307858e49a3325b7236655db218fc82e13bffb1/34262294:about:media:3d8c131a-6316-4e28-b399-fd220783ae87.png?w=500&auto=format",
+            "owner": "0xc3c9fdee83ad8c7b29b5ce2c6b8d19fa116c0e74",
+            "safelist_status": "approved",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/simplefrida",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x3307858e49a3325b7236655db218fc82e13bffb1",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "galihart",
+            "name": "GalihART",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/11e9e9ed355d71e35cb0d206c10e4940.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x9202e797e592c3963b0a10da9ce10b39dfff49ee",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/galihart",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x2b1280db3d3caaf3a15e7089c1ac6e6a5f999813",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "zax-d",
+            "name": "Zax D",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/c8bad8f326ce6f428c26a3cf890c134c.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xed5af582506b7f3a403764a3c8472d363d8e9cde",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/zax-d",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xe5a2d61c742673477858e10fbcd5940521a7b357",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "hukinsin",
+            "name": "hukinsin",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0x8ee60f3c941a36e2e05c6c5c224a85f1ae60e8d2",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/hukinsin",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x38ab96ab9d475021b113a9dee61d08e6420d051b",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "my-collection-1408",
+            "name": "MY collection",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/a2925ed080ff956ac8cdadaeca05c1bc.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x460cb533e33b845774e8efe68b649beedf236e3f",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/my-collection-1408",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x471fd9b998e34995d2eb0b4a2fc4d6f1d8a35bdb",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "the-righteous-king-of-the-world-1",
+            "name": "The righteous king of the world",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0x48a5ef0d3e94f563d6f6f730d4ae0e9f372f6f4e",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/the-righteous-king-of-the-world-1",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x9b1f4f173580d03872938d433f48ac25083d76b4",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "the-righteous-king-of-the-world",
+            "name": "The righteous king of the world",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0x48a5ef0d3e94f563d6f6f730d4ae0e9f372f6f4e",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/the-righteous-king-of-the-world",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x5d2b98b986fa3b5eebc5339dc8c68e0af505973d",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "losing-oneself",
+            "name": "Losing Oneself",
+            "description": "Losing Oneself is series of generative NFT\u2019s and corresponding plotter-drawings developed specifically for Cure\u00b3. Through a set of algorithmically generated psycho-geographic maps, the series explores the tension between the chaotic nature of reality and our simultaneous grasping for control. We plan out our lives, weaving intricate, fictitious structures that we try to inhabit, only to get repeatedly blindsided by chance, disorder, degeneration and eventual disintegration.\n\nDrawing on inspiration from scientific diagrams, urban plans and neuronal mappings, the underlying algorithm produces a set of 128 visual poems. All the available iterations have been hand-picked by the artist from a set of more than 6.000 randomly generated seeds.\n\nToken holders can order a corresponding pen plot for an additional fee equivalent to the mint price (more information to follow)\n\nThis project is part of the digital section of Cure\u00b3 at Bonhams, curated by Alex Estorick and Foteini Valeonti of reGEN.",
+            "image_url": "https://i.seadn.io/s/raw/files/305499ac15206b043e2fe74d761f566f.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xda8457bcc1096b4c66316b0a40c165d681bf244c",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/losing-oneself",
+            "project_url": "https://fxhash.xyz/generative/0xAf1cc8f71872d9898d157513A28ACcD741e0AB24",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xaf1cc8f71872d9898d157513a28accd741e0ab24",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "paraguayhills-com",
+            "name": "Paraguayhills.com",
+            "description": "Serie de 1000 parcelas de proyecto de urbanizaci\u00f3n en Paraguay(mundo real).\nVisita paraguayhills.com , Obten tu parcela y luego recl\u00e1mala al ser adquirida y consolidada. Se Cambia cada token por una parcela del mismo nivel a elegir entre las disponibles. Visita el mapa de parcelas y escoge una.\n@ParaguayHills",
+            "image_url": "https://i.seadn.io/s/raw/files/74db01dc44f685116a683486ddf0623c.png?w=500&auto=format",
+            "banner_image_url": "https://i.seadn.io/s/primary-drops/0x298090d0230ca1b75d6ef40866dd8751684eb88f/34262099:about:media:68e3a904-3294-4a39-9b7d-9bd83450b06d.jpeg?w=500&auto=format",
+            "owner": "0x9aad0d477a5fb2fe849627f8d33b3e4b29452cbe",
+            "safelist_status": "not_requested",
+            "category": "virtual-worlds",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/paraguayhills-com",
+            "project_url": "https://paraguayhill.com",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x298090d0230ca1b75d6ef40866dd8751684eb88f",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "butaverspass2025-1",
+            "name": "ButaversPass2025",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/0933290a9edac748b19ea30467e68c2d.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x32282d924738f5ffd98382c2a03fa88004329134",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/butaverspass2025-1",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": []
+        },
+        {
+            "collection": "butaverspass2025",
+            "name": "ButaversPass2025",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/bb72d5f1e96273acb0f457b782e38b5c.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x32282d924738f5ffd98382c2a03fa88004329134",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/butaverspass2025",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x6a9add280cda2b9208a9aa932cbe5d222e1e0223",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "alienvintage",
+            "name": "AlienVintage",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0x61ff64c48b535d3843be30a5c42e4d624bb96b99",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/alienvintage",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xb1edad1c37994cb746e2f54d828bd8cac36ffaa3",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "sos-54",
+            "name": "SOS!",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/709788fa48ddb4b9cea80eeaef5551b2.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x22574fa52abe0395bd1753d3a9ce0057dedd9596",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/sos-54",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xdaf94426d77268b5a0c0da724fa3f7f9ad92adf5",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "fairy-139",
+            "name": "fairy",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/53c662de306c9c423bb63b5c83c27278.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x820a064b00e891566fd13abe8c26a339790648bf",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/fairy-139",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xe89f8595a04389d9fc4e0f5a634a745150d843e4",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "angelai-138",
+            "name": "angel.ai",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0x820a064b00e891566fd13abe8c26a339790648bf",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/angelai-138",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xdc3774e85e24c3edec3ebad45975ea0b60fc64e4",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "hawai-i-aloha",
+            "name": "Hawai'i Aloha",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/378a8871286cb34e402040972035b672.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x6bfda5bf1c23deb04ef1ee383e2a9eaa85cedf13",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/hawai-i-aloha",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x1a6a3c974b6f4b06aa079e514276a3d3b724a9c3",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "tustenkaku-osaka-tower-japan-1",
+            "name": "Tustenkaku (Osaka tower) Japan",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/a6ded6ed079fef286e88a8752e57aef5.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x87c37679fb1067b1cb38be3bb5a1c171614231c5",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/tustenkaku-osaka-tower-japan-1",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x8cf09e530e0a661254579b95ba42e86d57274156",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "tustenkaku-osaka-tower-japan",
+            "name": "Tustenkaku (Osaka tower) Japan",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0x87c37679fb1067b1cb38be3bb5a1c171614231c5",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/tustenkaku-osaka-tower-japan",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xf4535b0d13597b20f7ec983972e4bee7f8f2928f",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "divineartbypadmaja",
+            "name": "Celestial By Padmaja",
+            "description": "Spiritual and divine art in acrylic focuses on creating visual expressions that evoke a sense of the sacred, transcendent, or divine. These works often blend symbolic elements, vibrant colors, and ethereal imagery to inspire reflection, meditation, and connection with higher spiritual realms. Artists use acrylics for their versatility and ability to capture both intricate details and bold, expansive compositions. Themes may include depicti",
+            "image_url": "https://i.seadn.io/s/raw/files/008f2a35887cbf1a4bbc6c7f60f94b82.jpg?w=500&auto=format",
+            "banner_image_url": "https://i.seadn.io/s/primary-drops/0xb4d86064f7e5d1f1f2fe42ecf7cee5e4581f07c8/34261804:about:media:3a2f9d24-7fef-4533-8d2d-31e48a92d9c3.png?w=500&auto=format",
+            "owner": "0x4154cd0503ac9dd0955a2ca75a3f06cf89b8be47",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/divineartbypadmaja",
+            "project_url": "https://www.instagram.com/padmajabysmita/",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xb4d86064f7e5d1f1f2fe42ecf7cee5e4581f07c8",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "outer-worldy",
+            "name": "Outer Worldy",
+            "description": "Retro-ey, interstellar, intergalatic art themes with a little bit of \"Aloha\" in the mix.",
+            "image_url": "https://i.seadn.io/s/raw/files/d98608ed5a9ffceb73900844bf00735e.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x6bfda5bf1c23deb04ef1ee383e2a9eaa85cedf13",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/outer-worldy",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x83b485ab57c8a1208485a70b61630c67a0153a09",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "yuri-pavin",
+            "name": "Yuri Pavin",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/a3ee59bf19f9a77ead64e31507937028.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xb18c98af16b08b058ae0694bbba190dcc3bfa492",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/yuri-pavin",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xe69249706aa576fceebac23f696ba333cea4cac9",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "fnd-coin-shares",
+            "name": "FND Coin Shares",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/c7a7bd6275a0f4850afb90a3a28e0878.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x1dba2360d758790a4aabc2f66abd08cb86e56551",
+            "safelist_status": "not_requested",
+            "category": "memberships",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/fnd-coin-shares",
+            "project_url": "https://www.fndcoin.com/",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "FNDCoin",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x59d609bf95820219e094fb5f2a4209ada3ba6c50",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "boda-nft",
+            "name": "BODA NFT",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/68b0a7be879f326a31d4cf75ec0d1b20.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x903a5e9037e262be7e147e0582a7df0211ee3238",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/boda-nft",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x84d7e8d2a0ac6f0eea70946757e356b62baedc4a",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "xtopher-land-scapes",
+            "name": "Xtopher Land Scapes",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/be6e16cda76c9350eda52a3486025a14.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x30a3fc45bd1a21da73fa187ca19dc84e65d40c16",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/xtopher-land-scapes",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xddebd7a92388cab26154b447c0b9bcca899e66cc",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "mythiccreations",
+            "name": "MythicCreations",
+            "description": "Welcome to MythicCreations, where fantasy meets innovation. Each NFT in this collection is born from the fusion of AI-generated art and captivating stories, alongside unique abstract drawings. Every piece carries a distinct narrative and a visual experience designed to transport you into a world of myth and imagination.\n",
+            "image_url": "https://i.seadn.io/s/raw/files/f3178fee4973e063e05c2fe8d80eba0e.jpg?w=500&auto=format",
+            "banner_image_url": "https://i.seadn.io/s/primary-drops/0xe1fa7387bdd40685fc553102aeace45ccd825bb5/34261606:about:media:713ea035-6726-4e52-9e9b-063726d58fc4.jpeg?w=500&auto=format",
+            "owner": "0x7324d57d1f6e186fc12efce59f65c6ca7b03cd0a",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": true,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/mythiccreations",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "RealNoahBlake",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xe1fa7387bdd40685fc553102aeace45ccd825bb5",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "zoo-114",
+            "name": "ZOO",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0xb1a27066e94cb30836b609bee725da3e4a9a107d",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/zoo-114",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x5f8ac954d553d259ceb0c6b480b7c6e7a1a8ba44",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "zoo-113",
+            "name": "ZOO",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/39684df5f3dafec691c0e8c653e9ff2e.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xb1a27066e94cb30836b609bee725da3e4a9a107d",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/zoo-113",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xfe17c8aa1fa64eed71e2c87c0a1a01074c6a9a59",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "chichi-s-planet-bubble-gum",
+            "name": "ChiChi's Planet Bubble Gum",
+            "description": "My first NFT ART,\nWelcome to ChiChi's Planet Bubble Gum.\n\nI am a handpainted 3d artist. \nI love creative activities that I make and draw myself. \nThank you for liking my ART",
+            "image_url": "https://i.seadn.io/s/raw/files/6798434ca2004c8a67620d74a1a00eb5.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x1ea59933f6a10c2d3e4b6cc258d30fc2e9e9781e",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/chichi-s-planet-bubble-gum",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xc12906cb16cefb28dbfa8bb3c5b6d8dea5f8af5d",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "genesis-334",
+            "name": "Genesis",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0xcacf9bcb4cb2ca4ddce8074b8df1fed5aa11e94e",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/genesis-334",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x558c95b5cacf0bd228cf67a1d6f794213cc5da51",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "genesis-333",
+            "name": "Genesis",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0xcacf9bcb4cb2ca4ddce8074b8df1fed5aa11e94e",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/genesis-333",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x54b4e88d94720d71cea2a4c3fd39b03eb706d15e",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "digital-world-heroes-creator",
+            "name": "Digital World Heroes",
+            "description": "The heroes of the digital world are opening the gate to infinity!",
+            "image_url": "https://i.seadn.io/s/raw/files/6b6b9ea00ddc045d32d808f41431636c.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x80016483919f43ba305dc361ea4d6447b1612f84",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/digital-world-heroes-creator",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xe79ca03f4b1c657e699b5cab098e53c577b6b427",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "visions-of-the-unconscious",
+            "name": "Visions of the Unconscious",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/b336a0ce81d54df5ea1d880a7f4e8de3.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x65355d72cccfca9780ed8faa9412d27809f0ab2b",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/visions-of-the-unconscious",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x123c766ad34ebda0a667118941b66b5c7ef8f965",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "veil-of-horns",
+            "name": "Veil of Horns",
+            "description": "Veil of Horns is a captivating NFT collection that merges the enchanting allure of feminine beauty with the mystical strength of horns. Each piece in the collection features mesmerizing portraits of women adorned with stunning horns, symbolizing a unique blend of power, grace, and mysticism. With intricate details and a surreal, otherworldly aesthetic, these ethereal beings represent a journey through self-discovery, embracing both the softness and strength that reside within.\n\nThe Veil of Horns collection invites you to explore a world where beauty and power coexist in harmony, each piece a reflection of untamed femininity and mystery. As you immerse yourself in these beautifully crafted artworks, you\u2019ll find yourself drawn into a realm where the veil between the earthly and the divine is thin, and the horns represent a connection to something greater.\n\nOwn a piece of this ethereal journey and let the Veil of Horns guide you into a universe filled with otherworldly beauty and strength",
+            "image_url": "https://i.seadn.io/s/raw/files/0be332785347a9d92b04876842c29e70.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x79f169cdd5e6b4571ea5249f50e46ecfbaccf9f8",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/veil-of-horns",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xcb267c126aee9b7357295b3481618933e784cdcd",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "egg-of-radiance",
+            "name": "Egg of Radiance",
+            "description": "The Egg of Radiance collection features 28 exquisitely designed 3D dragon eggs, each imbued with the essence of mythical power, elemental energy, and cosmic magic. Every egg is a gateway to an ancient dragon\u2019s soul, waiting to be unleashed into the digital realm.",
+            "image_url": "https://i.seadn.io/s/raw/files/6e33eead628a5ed0aa2413e2ae274046.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x95b566063f7f0154f0b347077dfbc32eed696c70",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/egg-of-radiance",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xff7f2e0711c81286f534ee8b180239cbe5015bb8",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "cenotes-del-alux",
+            "name": "Cenotes del Alux",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0x28e4474bbe2bd4a16b540684fbc63d921c3b55b9",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/cenotes-del-alux",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x40c77afeff641bc7b5b3d88c54c26951279abd6d",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "dressed-lions-1",
+            "name": "Dressed Lions",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/0a5de3c2cd92c84a0146393f3840afb0.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x65e8871c227d6932262e5ebb8b9f6fc31215ae00",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/dressed-lions-1",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x16d985646c35bc71e7eaca766325bfe204ce9623",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "geometry-81",
+            "name": "geometry",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/8cc4d330e5ed1089d25c21f6979076ff.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x88f87b2e4e02f350d61738f6b419978e17e593d8",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/geometry-81",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x959ce301f6687eb62ff17093b53bfd36146bf317",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "voidomdolls",
+            "name": "VOIDOM DOLLS",
+            "description": "VOIDOM DOLLS is a limited collection of 250 AI-aided NFTs, each capturing their beauty, danger, and untold secrets. In the dystopian world of VOIDOM, the Dolls\u2014mysterious, cyber-enhanced girls\u2014serve in the shadows, trained within the secret Church of the Veil.\n\nJoin the VOIDOM world and collect limited Voidom Dolls like \"The Zodiac Dolls,\" \"The Maids,\" \"The GEM,\" and more.",
+            "image_url": "https://i.seadn.io/s/raw/files/07b00112c3ea9ff12258a8b3029b4cef.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x5cf9c1f7f8b4c76d3687cf684454b67e2878d8f6",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/voidomdolls",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x0537bc908ec718660ba3700b4fc0123d06c9618c",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "geometry-1-3",
+            "name": "geometry #1",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/8cc4d330e5ed1089d25c21f6979076ff.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x88f87b2e4e02f350d61738f6b419978e17e593d8",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/geometry-1-3",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x2efa96d15d95194de9386bad59dfd2a412f3a8d3",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "kawaii-1997",
+            "name": "KAWAII",
+            "description": "I deliver cute and cool art. pop, interesting, \nfun, mysterious, art",
+            "image_url": "https://i.seadn.io/s/raw/files/48d3be47d64baff41878770398862472.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x2d7880ce6ae6da95a409cf9c2f3d1e75e2987598",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/kawaii-1997",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xff479de5d302b364c41aee800444e3481a0265c9",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "geometry-1-2",
+            "name": "geometry",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/8cc4d330e5ed1089d25c21f6979076ff.png?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x88f87b2e4e02f350d61738f6b419978e17e593d8",
+            "safelist_status": "not_requested",
+            "category": "art",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/geometry-1-2",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x89f32d1d13882bb2abe2cd21f4583d421a35b6ed",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "laughing-comedians",
+            "name": "Laughing Comedians",
+            "description": "This NFT collection parodies Maurizio Cattelan\u2019s Comedian, humorously reimagining the iconic work through cinematic scenes of women in minimalist attire. By compounding the original\u2019s minimalism, this independent collection critiques the original's eccentricity, sparking a narrative about art's evolving nature in the digital age.\n\nUnlike the original\u2019s static composition, these dynamic and playful visuals offer distinct experiences\u2014perfect to collect in a set or share with others who appreciate bold artistic expression and exclusivity. This transformative parody is unaffiliated with Maurizio Cattelan, Comedian, or its rights holders.\n",
+            "image_url": "https://i.seadn.io/s/raw/files/34a557343af11f0884571c4af17815bd.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0xba5e96410a42ddab0328f8d098c20e32e01aab9c",
+            "safelist_status": "not_requested",
+            "category": "pfps",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/laughing-comedians",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0x37fa48336625f4bdd8ff71f7722a360fa2d56569",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "journey-of-innerstanding",
+            "name": "Journey of innerstanding",
+            "description": "",
+            "image_url": "",
+            "banner_image_url": "",
+            "owner": "0x1d88111bdac4032f0d42c88ff40cd2c935f54bfb",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": false,
+            "opensea_url": "https://opensea.io/collection/journey-of-innerstanding",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xfa8aefb8f90f3ea9feb97578f0d1cd9d11b0d49f",
+                    "chain": "ethereum"
+                }
+            ]
+        },
+        {
+            "collection": "various-drawings-and-paintings",
+            "name": "Various Drawings and Paintings",
+            "description": "",
+            "image_url": "https://i.seadn.io/s/raw/files/8fd57a0f0bbdf3e921ccfad0d81d7385.jpg?w=500&auto=format",
+            "banner_image_url": "",
+            "owner": "0x2b34a8427476bb04ad22d29e3fda92c0ce267abf",
+            "safelist_status": "not_requested",
+            "category": "",
+            "is_disabled": false,
+            "is_nsfw": false,
+            "trait_offers_enabled": false,
+            "collection_offers_enabled": true,
+            "opensea_url": "https://opensea.io/collection/various-drawings-and-paintings",
+            "project_url": "",
+            "wiki_url": "",
+            "discord_url": "",
+            "telegram_url": "",
+            "twitter_username": "",
+            "instagram_username": "",
+            "contracts": [
+                {
+                    "address": "0xae5c826a94c7ea9a1c47fe206682981cd5d95cfd",
+                    "chain": "ethereum"
+                }
+            ]
+        }
+    ],
+    "next": "LXBrPTM0MjYwOTk4"
+}

@@ -1,4 +1,4 @@
-requests
-pandas
-sqlalchemy
-psycopg2
+requests #API request management tool
+pandas #Data manipulation within code
+sqlalchemy #Object-relational mapping tool to query and manipulate data in a relational database
+psycopg2 #To connect PostgreSQL to Python
